@@ -1,0 +1,29 @@
+h1{
+	font-family: cursive;
+	color: white;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	color: blue;
+	font-weight: bold;
+}
+
+#external{
+	text-shadow: 2px 2px 3px red;
+	color: white;
+}
+
+body{
+	background-color: black;
+}
+img{
+	border-style: solid;
+	border-color: blue;
+}
